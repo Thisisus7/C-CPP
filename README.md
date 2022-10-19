@@ -1,4 +1,4 @@
-## C++ implementation
+# C++ implementation
 
 #### Data structure
 #### Algorithms
