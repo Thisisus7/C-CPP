@@ -1,5 +1,13 @@
 # 1. Getting Ready
 
+## Contents
+
+- C
+- What Computers Do
+- High-level Language & Compiler
+- Using C: 7 Steps
+- Programming Mechanics
+
 ## Basic info
 
 **History:**
